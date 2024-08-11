@@ -1,3 +1,4 @@
+# Features
 - Spacebar changes Pac-Man's movement direction.
 - Pellets disappear when eaten, increasing the score by 1 pt shown on the top left.
 - Pellets respawn after they're all eaten.
