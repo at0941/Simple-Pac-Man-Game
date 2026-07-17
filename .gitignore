@@ -1,0 +1,16 @@
+# Processing build and export output
+application.*
+output/
+build/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*~
